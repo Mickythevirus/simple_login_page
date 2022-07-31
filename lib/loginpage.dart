@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 class Loginpage extends StatefulWidget {
   const Loginpage({Key? key}) : super(key: key);
@@ -24,6 +25,7 @@ class _LoginpageState extends State<Loginpage> {
               //Hello Agian
               Text(
                 'Hello Members! ',
+                style: GoogleFonts.bebasNeue(fontSize: 52),
               ),
               Text(
                 'Welcome to Login page',
