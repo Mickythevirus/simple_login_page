@@ -1,6 +1,6 @@
 # my_login_page
 
-A new Flutter project.
+A new Flutter project. where i make a login page UI for my Hometown !
 
 ## Getting Started
 
