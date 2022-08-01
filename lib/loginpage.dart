@@ -28,7 +28,7 @@ class _LoginpageState extends State<Loginpage> {
                 style: GoogleFonts.bebasNeue(fontSize: 52),
               ),
               Text(
-                'Welcome to Login page',
+                'Welcome to Sarishabari',
                 style: TextStyle(
                   fontSize: 15,
                 ),
